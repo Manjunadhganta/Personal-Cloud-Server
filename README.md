@@ -76,4 +76,4 @@ Personal-Cloud-Server/
 
 ---
 
-*Manjunadh Reddy Ganta · VIT Amaravati · B.Tech in Artificial Intelligence & Machine Learning*
+*Manjunadh Reddy Ganta*
